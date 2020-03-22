@@ -1,4 +1,4 @@
-package sum;
+package tests.sum;
 
 /**
  * @author Georgiy Korneev (kgeorgiy@kgeorgiy.info)

@@ -1,4 +1,4 @@
-package sum;
+package tests.sum;
 
 import base.MainChecker;
 
