@@ -19,8 +19,5 @@ jobs:
     - name: Compile
       run: javac hw1/*.java tests/sum/*.java
 
-    - name: Run SumTest
-      run: java tests/sum/SumTest
-    
     - name: Run SumTestHex
       run: java tests/sum/SumHexTest
